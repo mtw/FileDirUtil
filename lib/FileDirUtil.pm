@@ -1,5 +1,5 @@
 # -*-CPerl-*-
-# Last changed Time-stamp: <2017-05-15 16:10:21 mtw>
+# Last changed Time-stamp: <2017-05-15 16:43:38 mtw>
 
 =head1 NAME
 
@@ -78,12 +78,6 @@ has 'odir' => (
 	       predicate => 'has_odir',
 	       coerce => 1,
 	      );
-
-has 'odirn' => ( # custom output dir name
-		is => 'rw',
-		isa => 'Path::Class::Dir',
-		predicate => 'has_odirn',
-	       );
 
 sub BUILD {}
 after BUILD => sub {
