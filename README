@@ -2,7 +2,7 @@ FileDirUtil version 0.01
 ========================
 
 FileDirUtil is a convenience Moose Role for basic File IO, providing
-transparent access to Path::Class::File and Path::Class::Dirx> for
+transparent access to Path::Class::File and Path::Class::Dir for
 input files and output directories, respectively.
 
 To install this module type the following:
