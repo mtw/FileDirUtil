@@ -3,3 +3,6 @@ Revision history for Perl extension FileDirUtil.
 0.01  Sun May 14 2017
 	- initial release
 
+0.02  Tue May 23 2017
+	- provide set_ifilebn() method
+
