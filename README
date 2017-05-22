@@ -1,4 +1,4 @@
-FileDirUtil version 0.01
+FileDirUtil version 0.02
 ========================
 
 FileDirUtil is a convenience Moose Role for basic File IO, providing
