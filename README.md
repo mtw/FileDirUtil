@@ -39,9 +39,6 @@ You can also look for information at:
     metaCPAN
       https://metacpan.org/pod/FileDirUtil
 
-    RT, CPAN's request tracker (report bugs here)
-        http://rt.cpan.org/NoAuth/Bugs.html?Dist=FileDirUtil
-
 ## COPYRIGHT AND LICENCE
 
 Copyright (C) 2017-2019 Michael T. Wolfinger
