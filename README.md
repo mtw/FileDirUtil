@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mtw/FileDirUtil.svg?branch=master)](https://travis-ci.org/mtw/FileDirUtil)
+[![Build Status](https://travis-ci.org/mtw/FileDirUtil.svg?branch=master)](https://travis-ci.org/mtw/FileDirUtil) [![Anaconda-Server Badge](https://anaconda.org/bioconda/perl-filedirutil/badges/installer/conda.svg)](https://conda.anaconda.org/bioconda)  [![Anaconda-Server Badge](https://anaconda.org/bioconda/perl-filedirutil/badges/version.svg)](https://anaconda.org/bioconda/perl-filedirutil)
 
 # FileDirUtil version 0.04
 
